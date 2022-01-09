@@ -15,4 +15,4 @@ Tell me how to delete tag locally and remotely.
 
 
 
-![](vc.jpeg)
+![](../vc.jpeg)
