@@ -15,4 +15,4 @@ Tell me how to delete tag locally and remotely.
 
 
 
-![](../vc.jpeg)
+![](https://image.shutterstock.com/image-vector/arabic-calligraphy-design-show-gratitude-260nw-1267416376.jpg)
