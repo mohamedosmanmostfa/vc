@@ -4,10 +4,10 @@ Tell me how to remove dev branch
 
 
 
-Tell me how to list tags
+Tell me how to list tags :s
        git tag
 
-![](/home/mohamed/Downloads/vc.jpeg)
+
 
 Tell me how to delete tag locally and remotely.
      locally : git tag -d tag_name
@@ -15,3 +15,4 @@ Tell me how to delete tag locally and remotely.
 
 
 
+![](vc.jpeg)
